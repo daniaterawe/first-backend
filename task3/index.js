@@ -1,18 +1,15 @@
 const express = require("express");
 const app = express();
-
 const fortunes = 
   ["Opportunities come to those who wait",
   "Everything happens for a reason",
   "Happiness lies in the little things"];
-
 const jokes =
    ["Why don't computers use pencils? Because they're afraid of viruses",
   "Which animal never sleeps? The elephant, because it's always standing",
   "Why did the student go to school with a ladder? Because they heard the grades were high"];
-
 const facts =
- ["Honey is the only food that never spoils",
+   ["Honey is the only food that never spoils",
   "A shrimp's heart is in its head",
   "An ant can lift objects 50 times its own weight"];
 
